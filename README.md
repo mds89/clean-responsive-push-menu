@@ -1,7 +1,8 @@
-website-kickstart-bootstrap
+clean-responsive-push-menu
 ===========================
 
-Small and complete website kickstart package with everything built right in.
+An easy to use, clean and tidy responsive push menu already build into a bootstrap website starter.
+
 
 I am using the following plugins:
 - SASS Bootstrap 3.3
@@ -10,4 +11,4 @@ I am using the following plugins:
 - Respond.js
 - FontAwesome
 
-You will need Codekit or other SASS compiler to get started
+You will need Codekit or other SASS compiler to get going
