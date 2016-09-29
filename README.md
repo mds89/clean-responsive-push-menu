@@ -1,7 +1,7 @@
 clean-responsive-push-menu
 ===========================
 
-An easy to use, clean and tidy responsive push menu already build into a bootstrap website starter.
+An easy to use, clean and tidy responsive push menu already built into a bootstrap website starter.
 
 
 I am using the following plugins:
